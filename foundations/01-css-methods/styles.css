@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32pt;
+    font-weight: bold;
+    text-align: center;
+}
